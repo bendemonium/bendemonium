@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ridhibandaru
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning data mining, gene regulation
+- 💞️ I’m looking to collaborate on computational biology and data visualization projects
 - 📫 How to reach me - ridhi.bandaru@outlook.com
 
 <!---
