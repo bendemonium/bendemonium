@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @bendemonium
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning computational linguistics
-- 💞️ I’m looking to collaborate on computational linguitsics and genAI
-- 📫 How to reach me - ridhi.bandaru@outlook.com
+i'm ben. i like the rosetta stone, neural nets, sussy software, schiele and cats 🐈‍⬛.
+
+i sometimes read about witchcraft.
+
+reach me on dicord @bendemonium or [mailto:ridhi.bandaru@outlook.com](email) if you want to collab. or just have _theories_...
+
+![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94)
+
 
 <!---
 ridhibandaru/ridhibandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
