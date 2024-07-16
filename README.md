@@ -2,7 +2,7 @@ i'm ben. i like the rosetta stone, neural nets, sussy software, schiele and cats
 
 i sometimes read about witchcraft.
 
-reach me on dicord @bendemonium or [mailto:ridhi.bandaru@outlook.com](email) if you want to collab. or just have _theories_...
+reach me @ {disocrd: bendemonium} or {email: ridhi.bandaru@outlook.com} if you want to collab. or just have _theories_...
 
 ![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94)
 
