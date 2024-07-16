@@ -4,6 +4,8 @@ i sometimes read about witchcraft.
 
 reach me @ {disocrd: bendemonium} or {email: ridhi.bandaru@outlook.com} if you want to collab. or just have _theories_...
 
+
+
 ![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94)
 
 
