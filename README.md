@@ -7,6 +7,7 @@ reach me @ {disocrd: bendemonium} or {email: ridhi.bandaru@outlook.com} if you w
 
 
 ![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94)
+![image](https://github.com/user-attachments/assets/cc9eddc3-1b2b-48c4-bb58-1123ab1c1f57)
 
 
 <!---
