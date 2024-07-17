@@ -8,10 +8,6 @@ reach me @ {discord: `@bendemonium`} or {email: `ridhi.bandaru@outlook.com`} if 
 
 ![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94)
 
-img[alt="minipic"] { 
-  max-width:  20px; 
-  display: block;
-}
 <!---
 ridhibandaru/ridhibandaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
