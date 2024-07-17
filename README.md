@@ -6,7 +6,7 @@ reach me @ {discord: `@bendemonium`} or {email: `ridhi.bandaru@outlook.com`} if 
 
 
 
-![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94)
+![image](https://github.com/user-attachments/assets/756ca328-906d-4cea-95d4-9b09f5ae5c94 =250x)
 
 
 <!---
