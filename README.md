@@ -1,4 +1,4 @@
-i'm ben. i like the rosetta stone, neural nets, sussy software, schiele and cats 🐈‍⬛; big fan.
+i'm ben. i like the rosetta stone, neural nets, sussy software, schiele and cats 🐈‍⬛. 
 
 i sometimes read about witchcraft.
 
