@@ -1,5 +1,3 @@
-i'm ben. 
-
 reach me @ {discord: `@bendemonium`} or {email: `ridhi.bandaru@outlook.com`} if you want to collaborate. or just have _theories_...
 
 
